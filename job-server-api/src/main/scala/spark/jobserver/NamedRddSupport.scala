@@ -204,3 +204,4 @@ trait NamedRddSupport extends NamedObjectSupport { self: SparkJob =>
     }
   }
 }
+      

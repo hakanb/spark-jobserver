@@ -182,3 +182,4 @@ class FlywayMigrationSpec extends FunSpec with Matchers {
     }
   }
 }
+        

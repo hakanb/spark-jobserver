@@ -157,3 +157,4 @@ trait JobDAO {
                        binaryType: BinaryType,
                        uploadTime: DateTime): Array[Byte]
 }
+        

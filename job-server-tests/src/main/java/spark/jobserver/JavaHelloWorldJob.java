@@ -16,3 +16,4 @@ public class JavaHelloWorldJob implements JSparkJob<String> {
         return ConfigFactory.empty();
     }
 }
+     

@@ -24,3 +24,4 @@ object StreamingTestJob extends SparkStreamingJob {
     ssc.awaitTermination()
   }
 }
+     

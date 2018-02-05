@@ -51,3 +51,4 @@ class JavaStreamingSpec extends ExtrasJobSpecBase(JavaStreamingSpec.getNewSystem
     }
   }
 }
+      

@@ -23,3 +23,4 @@ class StreamingContextFactory extends ScalaContextFactory {
     }
   }
 }
+     

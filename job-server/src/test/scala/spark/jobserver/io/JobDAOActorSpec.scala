@@ -126,3 +126,4 @@ class JobDAOActorSpec extends TestKit(JobDAOActorSpec.system) with ImplicitSende
   }
 
 }
+   

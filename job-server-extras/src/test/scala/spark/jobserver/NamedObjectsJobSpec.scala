@@ -118,3 +118,4 @@ class NamedObjectsJobSpec extends JobSpecBase(JobManagerSpec.getNewSystem) {
     }
   }
 }
+  

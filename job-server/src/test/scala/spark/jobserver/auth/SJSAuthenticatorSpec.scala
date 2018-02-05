@@ -145,3 +145,4 @@ class SJSAuthenticatorSpec extends HttpService with SJSAuthenticator with FunSpe
   }
 
 }
+     

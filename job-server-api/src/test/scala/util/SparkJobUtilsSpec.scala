@@ -94,4 +94,4 @@ class SparkJobUtilsSpec extends FunSpec with Matchers {
       SparkJobUtils.getContextDeletionTimeout(config) should equal (40)
     }
   }
-}
+}        

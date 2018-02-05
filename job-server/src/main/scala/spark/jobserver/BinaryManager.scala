@@ -113,3 +113,4 @@ class BinaryManager(jobDao: ActorRef) extends InstrumentedActor {
       }.pipeTo(sender)
   }
 }
+      

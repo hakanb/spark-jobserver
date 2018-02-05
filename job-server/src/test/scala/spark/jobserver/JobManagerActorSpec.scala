@@ -50,3 +50,4 @@ class JobManagerActorSpec extends JobManagerSpec {
     }
   }
 }
+      

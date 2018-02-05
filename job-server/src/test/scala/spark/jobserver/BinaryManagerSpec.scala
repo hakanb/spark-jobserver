@@ -72,3 +72,4 @@ class BinaryManagerSpec extends TestKit(BinaryManagerSpec.system) with ImplicitS
     }
   }
 }
+   

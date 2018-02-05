@@ -68,3 +68,4 @@ object JsonUtils {
 
   def listFromJson(json: String): Seq[Any] = json.parseJson.convertTo[Seq[Any]]
 }
+     

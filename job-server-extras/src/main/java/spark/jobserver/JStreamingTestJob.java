@@ -40,3 +40,4 @@ public class JStreamingTestJob implements JStreamingJob<Integer> {
         return cfg;
     }
 }
+    

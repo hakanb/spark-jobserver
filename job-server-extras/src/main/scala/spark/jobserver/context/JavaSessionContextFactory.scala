@@ -43,3 +43,4 @@ class JavaStreamingContextFactory extends JavaContextFactory {
     }
   }
 }
+      

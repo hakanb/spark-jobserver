@@ -402,3 +402,4 @@ class JobCassandraDAO(config: Config) extends JobDAO with FileCacher {
     }
   }
 }
+        

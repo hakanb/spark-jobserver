@@ -49,3 +49,4 @@ class PythonJobManagerSpec extends ExtrasJobSpecBase(PythonJobManagerSpec.getNew
     }
   }
 }
+    

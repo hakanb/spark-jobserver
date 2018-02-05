@@ -74,3 +74,4 @@ class JobInfoActor(jobDao: JobDAO, contextSupervisor: ActorRef) extends Instrume
       sender ! JobConfigStored
   }
 }
+       

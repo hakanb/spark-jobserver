@@ -108,3 +108,4 @@ object PythonSparkContextFactorySpec {
 
   lazy val sparkConf = new SparkConf().setMaster("local[*]").setAppName("PythonSparkContextFactorySpec")
 }
+       

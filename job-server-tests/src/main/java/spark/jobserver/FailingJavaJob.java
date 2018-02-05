@@ -16,3 +16,4 @@ public class FailingJavaJob implements JSparkJob<Integer> {
         throw new RuntimeException("fail");
     }
 }
+     

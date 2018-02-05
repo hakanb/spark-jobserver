@@ -372,3 +372,4 @@ class CustomContext(sparkContext: SparkContext) extends JavaSparkContext(sparkCo
 
   def customMethod: String = "Hello World"
 }
+      

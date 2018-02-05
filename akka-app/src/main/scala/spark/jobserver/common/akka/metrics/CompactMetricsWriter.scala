@@ -94,3 +94,4 @@ class CompactMetricsWriter(private val log: Logger) extends MetricProcessor[Logg
 
   }
 }
+       

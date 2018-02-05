@@ -5,3 +5,4 @@ package spark.jobserver.auth
  * to add more properties such as group memberships
  */
 case class User(login: String)
+   

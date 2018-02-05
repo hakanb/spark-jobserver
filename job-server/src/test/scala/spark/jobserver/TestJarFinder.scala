@@ -70,3 +70,4 @@ trait TestJarFinder {
     allJars.head
   }
 }
+  
