@@ -15,4 +15,4 @@ public class TestJob implements JSparkJob<Integer> {
         return ConfigFactory.empty();
     }
 }
-                  
+                        
