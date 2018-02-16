@@ -98,4 +98,4 @@ class JobDAOActor(dao: JobDAO) extends InstrumentedActor {
       sender() ! BinaryContent(dao.getBinaryContent(appName, binaryType, uploadTime))
   }
 }
-                       
+                         
