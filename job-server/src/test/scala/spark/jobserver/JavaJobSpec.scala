@@ -75,4 +75,4 @@ class JavaJobSpec extends JobSpecBase(JobManagerSpec.getNewSystem) {
     }
   }
 }
-                          
+                              
