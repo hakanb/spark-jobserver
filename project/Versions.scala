@@ -26,4 +26,4 @@ object Versions {
   lazy val sprayJson = "1.3.2"
   lazy val typeSafeConfig = if (isJavaAtLeast("1.8")) "1.3.0" else "1.2.1"
 }
-                        
+                                
