@@ -60,4 +60,4 @@ object NamedObjectsTestJobConfig {
   val DELETE = "delete"
 }
 
-                                         
+                                            

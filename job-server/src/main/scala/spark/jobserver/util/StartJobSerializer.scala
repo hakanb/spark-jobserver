@@ -58,4 +58,4 @@ class StartJobSerializer extends JSerializer {
           s"${ex.getMessage}")
     }
   }
-}                                       
+}                                         
