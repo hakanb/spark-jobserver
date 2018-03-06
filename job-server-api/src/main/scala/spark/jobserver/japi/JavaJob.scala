@@ -28,4 +28,4 @@ case class JavaJob[R: ClassTag, CX: ClassTag](job: BaseJavaJob[R, CX]) extends S
     }
   }
 }
-                                             
+                                                  

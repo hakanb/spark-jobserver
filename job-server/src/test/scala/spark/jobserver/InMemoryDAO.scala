@@ -90,4 +90,4 @@ class InMemoryDAO extends JobDAO {
     binaries = binaries.filter { case ((name, _, _), _) => appName != name }
   }
 }
-                                                    
+                                                          
