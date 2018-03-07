@@ -30,4 +30,4 @@ class HiveWindowJob(SparkJob):
         """)
         results = query.collect()
         return [(r[0], r[1], r[2]) for r in results]
-                                                              
+                                                               

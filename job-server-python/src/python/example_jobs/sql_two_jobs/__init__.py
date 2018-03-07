@@ -55,4 +55,4 @@ class Job2(SparkJob):
         FROM people_table GROUP BY age ORDER BY age""")
         results = query.collect()
         return results
-                                              
+                                               

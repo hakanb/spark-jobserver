@@ -39,4 +39,4 @@ class WordCountSparkSessionJob(SparkJob):
 
     def run_job(self, context, runtime, data):
         return context.sparkContext.parallelize(data).countByValue()
-                                                          
+                                                            

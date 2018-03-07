@@ -169,4 +169,4 @@ object LdapGroupRealm {
   val ERROR_MSG_NO_VALID_GROUP = "no valid group found"
   val ERROR_MSG_AUTHORIZATION_FAILED = "user authorization failed"
 }
-                                             
+                                                
