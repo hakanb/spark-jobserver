@@ -64,4 +64,4 @@ trait OldSparkJob extends SparkJobBase {
   type C = SparkContext
   type JobOutput = Any
   type JobData = Config
-}                                                          
+}                                                            
