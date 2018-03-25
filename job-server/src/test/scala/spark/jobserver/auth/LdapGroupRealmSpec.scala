@@ -229,4 +229,4 @@ class TestNamingEnumeration(members: List[SearchResult]) extends NamingEnumerati
     members(ix - 1)
   }
 }
-                                                                            
+                                                                               

@@ -26,4 +26,4 @@ class SQLAverageJob(SparkJob):
                             "from people GROUP BY age ORDER BY age")
         results = query.collect()
         return [(r[0], r[1]) for r in results]
-                                                                            
+                                                                                

@@ -95,4 +95,4 @@ object LongPiJob extends api.SparkJob {
   private val OneSec = 1000 // in milliseconds
   private def stillHaveTime(startTime: Long, duration: Int): Boolean = (now - startTime) < duration * OneSec
 }
-                                                                              
+                                                                                   
