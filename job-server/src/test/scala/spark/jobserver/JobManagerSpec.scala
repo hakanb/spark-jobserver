@@ -269,4 +269,4 @@ abstract class JobManagerSpec extends JobSpecBase(JobManagerSpec.getNewSystem) {
 
   }
 }
-                                                                       
+                                                                          

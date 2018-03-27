@@ -79,4 +79,4 @@ class JavaSessionSpec extends ExtrasJobSpecBase(JavaSessionSpec.getNewSystem) {
     }
   }
 }
-                                                                                      
+                                                                                          
