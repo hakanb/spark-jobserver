@@ -6,4 +6,4 @@ trait ExtrasTestJarFinder extends TestJarFinder {
   override val testJarBaseDir = "job-server-extras"
 }
 
-abstract class ExtrasJobSpecBase(system: ActorSystem) extends JobSpecBaseBase(system) with ExtrasTestJarFinder                                                                               
+abstract class ExtrasJobSpecBase(system: ActorSystem) extends JobSpecBaseBase(system) with ExtrasTestJarFinder                                                                                  

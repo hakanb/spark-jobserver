@@ -367,4 +367,4 @@ class JobCassandraDAOSpec extends TestJarFinder with FunSpecLike with Matchers w
     }
   }
 }
-                                                                          
+                                                                            
