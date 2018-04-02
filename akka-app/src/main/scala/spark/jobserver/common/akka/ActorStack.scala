@@ -33,4 +33,4 @@ trait ActorStack extends Actor {
     case x => if (wrappedReceive.isDefinedAt(x)) wrappedReceive(x) else unhandled(x)
   }
 }
-                                                                                          
+                                                                                                  

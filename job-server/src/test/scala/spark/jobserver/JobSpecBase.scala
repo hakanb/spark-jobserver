@@ -97,4 +97,4 @@ with FunSpecLike with Matchers with BeforeAndAfter with BeforeAndAfterAll {
 }
 
 abstract class JobSpecBase(system: ActorSystem) extends JobSpecBaseBase(system) with TestJarFinder
-                                                                                 
+                                                                                    
