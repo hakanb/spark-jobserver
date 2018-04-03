@@ -37,4 +37,4 @@ trait JobCache {
     */
   def getPythonJob(appName: String, uploadTime: DateTime, classPath: String): PythonJobInfo
 }
-                                                                                                    
+                                                                                                      

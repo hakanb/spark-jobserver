@@ -14,4 +14,4 @@ object JobServerSprayProtocol extends DefaultJsonProtocol {
   implicit val jobServerResponseFormat: RootJsonFormat[JobServerResponse] = jsonFormat2(JobServerResponse)
 
 }
-                                                                                       
+                                                                                        

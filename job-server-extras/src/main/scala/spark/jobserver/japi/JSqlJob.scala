@@ -23,4 +23,4 @@ abstract class JSessionJob[R] extends BaseJavaJob[R, SparkSessionContextLikeWrap
   }
 }
 
-trait JStreamingJob[R] extends BaseJavaJob[R, StreamingContext]                                                                                                         
+trait JStreamingJob[R] extends BaseJavaJob[R, StreamingContext]                                                                                                            
