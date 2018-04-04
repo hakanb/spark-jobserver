@@ -190,4 +190,4 @@ class PythonSessionContextFactory extends PythonContextFactory {
     context = PythonSessionContextLikeWrapper(spark, contextConfig)
     context
   }
-}                                                                                         
+}                                                                                          

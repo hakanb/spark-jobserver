@@ -60,4 +60,4 @@ class StreamingJobSpec extends JobSpecBase(StreamingJobSpec.getNewSystem) {
     }
   }
 }
-                                                                                            
+                                                                                              
