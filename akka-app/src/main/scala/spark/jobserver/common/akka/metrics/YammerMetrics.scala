@@ -23,4 +23,4 @@ trait YammerMetrics {
             rateUnit: TimeUnit = TimeUnit.SECONDS): Timer =
     Metrics.newTimer(getClass, name, durationUnit, rateUnit)
 }
-                                                                                                         
+                                                                                                                 
