@@ -84,4 +84,4 @@ object KMeansExample extends SparkJob with NamedRddSupport {
     (sample.columns, sample.toJSON.collect(), sample.count())
   }
 }
-                                                                                                            
+                                                                                                              

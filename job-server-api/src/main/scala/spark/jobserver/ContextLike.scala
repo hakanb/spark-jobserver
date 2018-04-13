@@ -20,4 +20,4 @@ trait ContextLike {
    * stop method.
    */
   def stop()
-}                                                                                            
+}                                                                                             
