@@ -27,4 +27,4 @@ class CustomContextJob(SparkJob):
 
     def build_context(self, gateway, jvmContext, sparkConf):
         return CustomContext(gateway, jvmContext, sparkConf)
-                                                                                                             
+                                                                                                               
