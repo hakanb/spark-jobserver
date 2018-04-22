@@ -19,4 +19,4 @@ object NoOpJob extends SparkJob {
 
   def runJob(sc: SparkContext, config: Config): Any = 1
 }
-                                                                                                               
+                                                                                                                   

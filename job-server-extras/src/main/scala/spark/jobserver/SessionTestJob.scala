@@ -57,4 +57,4 @@ object SessionTestJob extends SparkSessionJob {
     spark.sql(config.getString("sql")).collect()
   }
 }
-                                                                                                                               
+                                                                                                                                  

@@ -10,4 +10,4 @@ import org.apache.spark.streaming.StreamingContext
 trait SparkStreamingJob extends SparkJobBase {
   type C = StreamingContext
 }
-                                                                                                                             
+                                                                                                                                
