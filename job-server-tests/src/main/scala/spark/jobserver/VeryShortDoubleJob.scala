@@ -27,4 +27,4 @@ object VeryShortDoubleJob extends SparkJob {
     dd.map( _ * 2 ).collect()
   }
 }
-                                                                                                                          
+                                                                                                                           
