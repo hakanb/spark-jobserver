@@ -26,4 +26,4 @@ class BroadcastPersister[T] extends NamedObjectPersister[NamedBroadcast[T]] {
     case NamedBroadcast(broadcast) =>
       namedBroadcast
   }
-}                                                                                                                          
+}                                                                                                                               

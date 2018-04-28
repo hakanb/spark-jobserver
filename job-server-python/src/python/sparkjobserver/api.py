@@ -219,4 +219,4 @@ class NamedObjects:
         """
         raise NotImplementedError(
                 "Concrete implementations should override get_names")
-                                                                                                                        
+                                                                                                                           
