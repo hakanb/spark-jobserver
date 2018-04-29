@@ -41,4 +41,4 @@ class StartJobSerializerSpec extends FunSpecLike with Matchers {
     }
   }
 }
-                                                                                                                      
+                                                                                                                       

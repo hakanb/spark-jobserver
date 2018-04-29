@@ -52,4 +52,4 @@ object DefaultSparkMasterProvider extends SparkMasterProvider {
   def getSparkMaster(config: Config): String = config.getString("spark.master")
 
 }
-                                                                                                                            
+                                                                                                                             
