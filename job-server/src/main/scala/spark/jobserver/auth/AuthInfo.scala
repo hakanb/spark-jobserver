@@ -29,4 +29,4 @@ class AuthInfo(val user: User) {
   override def hashCode: Int = user.hashCode
 
 }
-                                                                                                                                        
+                                                                                                                                          
