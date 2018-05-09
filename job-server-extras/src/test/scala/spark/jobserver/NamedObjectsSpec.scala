@@ -190,4 +190,4 @@ class NamedObjectsSpec extends TestKit(ActorSystem("NamedObjectsSpec")) with Fun
     }
   }
 }
-                                                                                                                                                     
+                                                                                                                                                         
