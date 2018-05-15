@@ -62,4 +62,4 @@ trait SparkJobBase extends NewSparkJob {
 trait SparkJob extends SparkJobBase {
   type C = SparkContext
 }
-                                                                                                                                                
+                                                                                                                                                  

@@ -9,4 +9,4 @@ trait BaseJavaJob[R, C]{
   def verify(sc: C, runtime: JobEnvironment, config: Config): Config
 }
 
-trait JSparkJob[R] extends BaseJavaJob[R, JavaSparkContext]                                                                                                                                                       
+trait JSparkJob[R] extends BaseJavaJob[R, JavaSparkContext]                                                                                                                                                          
