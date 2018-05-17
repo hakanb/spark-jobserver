@@ -494,4 +494,4 @@ class WebApiWithAuthenticationSpec extends FunSpec with Matchers with BeforeAndA
   }
 }
 
-                                                                                                                                                          
+                                                                                                                                                            

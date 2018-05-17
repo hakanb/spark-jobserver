@@ -138,4 +138,4 @@ trait NamedObjects {
 // NamedObjectSupport is not needed anymore due to JobEnvironment in api.SparkJobBase.  It is also
 // imported into the old spark.jobserver.SparkJobBase automatically for compatibility.
 @Deprecated
-trait NamedObjectSupport                                                                                                                                                                        
+trait NamedObjectSupport                                                                                                                                                                          

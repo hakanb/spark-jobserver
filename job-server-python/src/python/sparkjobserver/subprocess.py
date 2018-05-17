@@ -116,4 +116,4 @@ if __name__ == "__main__":
                 "Error while calling 'run_job': %s\n%s" %
                 (repr(error), traceback.format_exc()), 4)
         entry_point.setResult(result)
-                                                                                                                                                                     
+                                                                                                                                                                       
