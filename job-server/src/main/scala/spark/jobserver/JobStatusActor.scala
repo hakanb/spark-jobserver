@@ -142,4 +142,4 @@ class JobStatusActor(jobDao: ActorRef) extends InstrumentedActor with YammerMetr
   private def newMultiMap(): mutable.MultiMap[Class[_], ActorRef] =
     new mutable.HashMap[Class[_], mutable.Set[ActorRef]] with mutable.MultiMap[Class[_], ActorRef]
 }
-                                                                                                                                                                   
+                                                                                                                                                                     

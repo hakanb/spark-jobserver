@@ -57,4 +57,4 @@ object WordCountExampleNewApi extends NewSparkJob {
       .getOrElse(Bad(One(SingleProblem("No input.string param"))))
   }
 }
-                                                                                                                                                                     
+                                                                                                                                                                      

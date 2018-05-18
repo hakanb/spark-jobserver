@@ -409,4 +409,4 @@ class JobManagerActor(contextConfig: Config, daoActor: ActorRef)
     Try(config.getStringList("dependent-jar-uris").asScala.toSeq).
      orElse(Try(config.getString("dependent-jar-uris").split(",").toSeq)).getOrElse(Nil)
 }
-                                                                                                                                                          
+                                                                                                                                                            

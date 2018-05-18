@@ -49,4 +49,4 @@ class JobResultActor extends InstrumentedActor with YammerMetrics {
   }
 
 }
-                                                                                                                                                             
+                                                                                                                                                              
