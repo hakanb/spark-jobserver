@@ -24,4 +24,4 @@ trait SparkSessionJob extends spark.jobserver.api.SparkJobBase {
     = validate(sc.spark, runtime, config)
 }
 
-                                                                                                                                                 
+                                                                                                                                                      
