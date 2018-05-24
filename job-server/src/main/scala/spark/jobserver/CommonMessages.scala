@@ -37,4 +37,4 @@ object CommonMessages {
   case object JobInitAlready
   case class NoJobSlotsAvailable(maxJobSlots: Int) // TODO: maybe rename this
 }
-                                                                                                                                                                      
+                                                                                                                                                                        

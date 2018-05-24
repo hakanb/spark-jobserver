@@ -55,4 +55,4 @@ object TestProvider extends SparkMasterProvider {
    */
   override def getSparkMaster(config: Config): String = "TestMaster"
 }
-                                                                                                                                                      
+                                                                                                                                                        
