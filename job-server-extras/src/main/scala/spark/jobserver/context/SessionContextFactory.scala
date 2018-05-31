@@ -31,4 +31,4 @@ class SessionContextFactory extends ScalaContextFactory {
     for ((k, v) <- SparkJobUtils.getHadoopConfig(config)) spark.sparkContext.hadoopConfiguration.set(k, v)
     SparkSessionContextLikeWrapper(spark)
   }
-}                                                                                                                                                                                  
+}                                                                                                                                                                                   

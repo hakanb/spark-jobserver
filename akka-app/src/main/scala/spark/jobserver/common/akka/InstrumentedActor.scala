@@ -18,4 +18,4 @@ abstract class InstrumentedActor extends Actor with Slf4jLogging with ActorMetri
   /** postStop() is called when actor is stopped or restarted due to Exceptions **/
   override def postStop() { logger.warn("Shutting down {}", getClass.getName) }
 }
-                                                                                                                                                                                                  
+                                                                                                                                                                                                     

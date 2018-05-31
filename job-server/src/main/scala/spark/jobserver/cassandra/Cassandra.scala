@@ -73,4 +73,4 @@ object Cassandra {
 
   object Boundstatement extends BoundStatementOperations
 
-}                                                                                                                                                                                      
+}                                                                                                                                                                                        
