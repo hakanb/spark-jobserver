@@ -46,4 +46,4 @@ class DataFramePersister extends NamedObjectPersister[NamedDataFrame] {
       namedDF
   }
 
-}                                                                                                                                                                                
+}                                                                                                                                                                                     

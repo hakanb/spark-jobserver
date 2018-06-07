@@ -35,4 +35,4 @@ class JavaSparkJob extends SparkJob {
    */
   def invalidate(jsc: JavaSparkContext, config: Config): String = { null }
 }
-                                                                                                                                                                                               
+                                                                                                                                                                                                 
