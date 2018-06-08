@@ -151,4 +151,4 @@ class DefaultSparkContextFactory extends ScalaContextFactory {
   def isValidJob(job: api.SparkJobBase): Boolean =
     job.isInstanceOf[SparkJob] || job.isInstanceOf[api.SparkJob]
 }
-                                                                                                                                                                                                 
+                                                                                                                                                                                                    
